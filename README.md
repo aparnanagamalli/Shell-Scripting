@@ -11,6 +11,10 @@ Here are some common shell commands:
     ```bash
     ls
     ```
+- **`ls-ltr`**: List all the files & folders with timestamp / Lists files in long format, sorted by modification time, with the oldest files at the top.
+    ```bash
+    ls-ltr
+    ```
 - **`pwd`**: Print present working directory.
     ```bash
     pwd
@@ -27,11 +31,40 @@ Here are some common shell commands:
     ```bash
     rm filename.txt
     ```
+- **`rmdir`**: Remove a directory.
+    ```bash
+    rmdir new_folder
+    ```
 - **`touch`**: To Creates an empty file
     ```bash
     touch newfile.txt
     ```
-- **`rmdir`**: Remove a directory.
+- **`cal`**: Displays the current month’s calendar.
     ```bash
-    rmdir 
+    cal
     ```
+- **`date`**: Displays the current system date and time.
+    ```bash
+    date
+    ```
+- **`help`**: Provides help information about the cd command.
+    ```bash
+    help cd
+    ```
+- **`clear`**: Clears the terminal screen.
+    ```bash
+    clear
+    ```
+- **`exit`**: Exits the current shell session.
+    ```bash
+    exit
+    ```
+- **`echo`**: Printing/Displaying
+    ```bash
+    echo
+    ```
+- **`cat`**: Print the content of the file.
+    ```bash
+    cat
+    ```
+  
