@@ -5,9 +5,11 @@
 
 Here are some common shell commands you can use:
 
-### Listing Files
-
-`ls`  Lists files and directories in the current directory
+`ls` -> List out all files and directories in the current directory
 ```bash
 ls 
 
+ 
+`pwd` -> print present working directory
+```bash
+pwd
