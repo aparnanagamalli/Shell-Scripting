@@ -10,6 +10,4 @@ Here are some common shell commands you can use:
 ls 
 
  
-`pwd` -> print present working directory
-```bash
-pwd
+
