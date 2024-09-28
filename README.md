@@ -8,3 +8,8 @@ Here are some common shell commands you can use:
 `ls` -> List out all files and directories in the current directory
 ```bash
 ls 
+```bash
+
+`pwd` -> print present working directory
+```bash
+pwd
