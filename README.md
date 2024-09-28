@@ -11,23 +11,27 @@ Here are some common shell commands:
     ```bash
     ls
     ```
-
-- **`pwd`**: Print the present working directory.
+- **`pwd`**: Print present working directory.
     ```bash
     pwd
     ```
-
 - **`cd`**: Change to a specified directory.
     ```bash
     cd /path/to/directory
     ```
-
 - **`mkdir`**: Create a new directory.
     ```bash
     mkdir new_folder
     ```
-
 - **`rm`**: Remove a specified file.
     ```bash
     rm filename.txt
+    ```
+- **`touch`**: To Creates an empty file
+    ```bash
+    touch newfile.txt
+    ```
+- **`rmdir`**: Remove a directory.
+    ```bash
+    rmdir 
     ```
