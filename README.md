@@ -7,7 +7,7 @@ Here are some common shell commands you can use:
 
 ### Listing Files
 
-Use the `ls` command to Lists files and directories in the current directory
+`ls`  Lists files and directories in the current directory
 ```bash
 ls 
 
