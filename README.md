@@ -1,4 +1,4 @@
 # Shell-Scripting
 **Basic  Commands**
 
-  |ls|
+ 'ls'
